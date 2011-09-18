@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BillShare</string>
+    <string name="hello">Hello, Android! I am a string resource!</string>
+    <string-array name="people">
+        <item>Clarissa</item>
+        <item>Melisa</item>
+        <item>Danny</item>
+        <item>Karen</item>
+    </string-array>
+</resources>
